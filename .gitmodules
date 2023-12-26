@@ -1,0 +1,3 @@
+[submodule "exdev"]
+	path = exdev
+	url = https://github.com/moxxx73/exdev
